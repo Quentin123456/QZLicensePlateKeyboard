@@ -1,0 +1,16 @@
+PODS:
+  - QZLicensePlateKeyboard (0.1.0)
+
+DEPENDENCIES:
+  - QZLicensePlateKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  QZLicensePlateKeyboard:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QZLicensePlateKeyboard: 536bde7289623b146dbf6f3bc0a43d8893d46073
+
+PODFILE CHECKSUM: d71c473b8ccaf18ddf28503c367be2ab7b23e231
+
+COCOAPODS: 1.7.5

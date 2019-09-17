@@ -1,0 +1,22 @@
+{
+  "name": "QZLicensePlateKeyboard",
+  "version": "0.1.0",
+  "summary": "A short description of QZLicensePlateKeyboard.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Quentin zang/QZLicensePlateKeyboard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Quentin zang": "quentinzang@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Quentin zang/QZLicensePlateKeyboard.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QZLicensePlateKeyboard/Classes/**/*"
+}

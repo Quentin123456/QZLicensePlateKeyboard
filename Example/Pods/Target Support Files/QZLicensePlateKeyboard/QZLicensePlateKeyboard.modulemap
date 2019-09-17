@@ -1,0 +1,6 @@
+framework module QZLicensePlateKeyboard {
+  umbrella header "QZLicensePlateKeyboard-umbrella.h"
+
+  export *
+  module * { export * }
+}
